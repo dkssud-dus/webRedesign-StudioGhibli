@@ -3,7 +3,7 @@
 [README](https://github.com/dkssud-dus/webRedesign-StudioGhibli) | [README_en](https://github.com/dkssud-dus/webRedesign-StudioGhibli/blob/main/README_en.md)
 
 `#RedesignProject` `#Website` `#TeamProject` `#3PeopleTeam` `#Responsive` `#Mobile`
-# **Website Redesign Project:**
+# **Website Redesign Project Details:**
 ### Studio Ghibli
 
 <br/>
