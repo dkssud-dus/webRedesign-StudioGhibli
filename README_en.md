@@ -1,3 +1,4 @@
+
 ---
 [README](https://github.com/dkssud-dus/webRedesign-StudioGhibli) | [README_en](https://github.com/dkssud-dus/webRedesign-StudioGhibli/blob/main/README_en.md)
 
