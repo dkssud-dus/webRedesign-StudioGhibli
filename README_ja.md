@@ -15,7 +15,7 @@
 |--------------|-------------------------------|---------------------------------------------------------|----------------------------------------------------------------|
 | 👑 조효희, Jo hyo hee | 情報伝達                 | Header, Navigation, Ghibli Event, Ghibli Location                                | Studio Ghibli Information, Notice, Event (Calendar), Q&A                            |
 | 김채연, Kim chae yeon   | ビジュアル + 情報融合           | Music Control, Main visual, Studio Ghibli information · history, Movies                          | Movie List, Movie Detail                                                           |
-| 박서영, Park seo young | 情報伝達        | Notice, Inside, Email, Footer, Top button, Pagenation (section anchor)                          | Ghibli Location, Ghibli Museum, Ghibli Park, Ghibli Event (Weather)                 |
+| 박서영, Park seo young | 情報伝達        | Notice, Inside, Email, Footer, Top button, Pagination (section anchor)                          | Ghibli Location, Ghibli Museum, Ghibli Park, Ghibli Event (Weather)                 |
 
 </br>
 
