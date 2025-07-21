@@ -140,7 +140,7 @@
 </br>
 </br>
 
-### 3.1.3. Pagenation (section anchor)
+### 3.1.3. Pagination (section anchor)
 ![mainpage-pagenation](https://github.com/user-attachments/assets/5a58e712-113f-4778-924b-105bb21a13cc)
 
 <br/>
