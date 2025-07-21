@@ -15,7 +15,7 @@
 |--------------|-------------------------------|---------------------------------------------------------|----------------------------------------------------------------|
 | 👑 조효희, Jo hyo hee | Info Delivery                 | Header, Navigation, Ghibli Event, Ghibli Location                                | Studio Ghibli Information, Notice, Event (Calendar), Q&A                            |
 | 김채연, Kim chae yeon   | Visual + Info Blend           | Music Control, Main visual, Studio Ghibli information · history, Movies                          | Movie List, Movie Detail                                                           |
-| 박서영, Park seo young | Info Delivery        | Notice, Inside, Email, Footer, Top button, Pagenation (section anchor)                          | Ghibli Location, Ghibli Museum, Ghibli Park, Ghibli Event (Weather)                 |
+| 박서영, Park seo young | Info Delivery        | Notice, Inside, Email, Footer, Top button, Pagination (section anchor)                          | Ghibli Location, Ghibli Museum, Ghibli Park, Ghibli Event (Weather)                 |
 
 </br>
 
@@ -140,7 +140,7 @@ The purpose of this project is as follows:
 </br>
 </br>
 
-### 3.1.3. Pagenation (section anchor)
+### 3.1.3. Pagination (section anchor)
 ![mainpage-pagenation](https://github.com/user-attachments/assets/5a58e712-113f-4778-924b-105bb21a13cc)
 
 <br/>
