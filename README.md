@@ -227,7 +227,7 @@
 |--------------|-------------------------------|---------------------------------------------------------|----------------------------------------------------------------|
 | 👑 조효희, Jo hyo hee | Info Delivery                 | Header, Navigation, Ghibli Event, Ghibli Location                                | Studio Ghibli Information, Notice, Event (Calendar), Q&A                            |
 | 김채연, Kim chae yeon   | Visual + Info Blend           | Music Control, Main visual, Studio Ghibli information · history, Movies                          | Movie List, Movie Detail                                                           |
-| 박서영, Park seo young | Info Delivery        | Notice, Inside, Email, Footer, Top button, Pagenation (section anchor)                          | Ghibli Location, Ghibli Museum, Ghibli Park, Ghibli Event (Weather)                 |
+| 박서영, Park seo young | Info Delivery        | Notice, Inside, Email, Footer, Top button, Pagination (section anchor)                          | Ghibli Location, Ghibli Museum, Ghibli Park, Ghibli Event (Weather)                 |
 
 </br>
 
