@@ -693,13 +693,16 @@
    - 👑 조효희, Jo hyo hee (정보 전달)
        - Main Page: Header, Navigation, 지브리 이벤트, 현실 속 지브리
        - Sub Page: 회사 정보, 지브리 소식, 지브리 이벤트 Calendar, Q&A
+       - 영어 번역
    - 김채연, Kim chae yeon (정보 전달, 미디어 콘텐츠):
        - Main Page: Music On/Off, Main Visual, 스튜디오 지브리, 지브리 작품 둘러보기
        - Sub Page: 스튜디오 지브리 작품 둘러보기, 그대들은 어떻게 살 것인가
+       - 일본어 번역 
        - README 작성 및 최종 취합                                                  
    - 박서영, Park seo young (정보 전달, 사용자 인터랙션):
        - Main Page: 지브리 소식, 지브리 인사이드, 의견 등 메일 송부, Footer, Top button, Pagination (Section Anchor)
        - Sub Page: 현실 속 지브리, 지브리 파크, 지브리 뮤지엄, 지브리 이벤트 Weather
+       - 영어 번역 
 
 <br/>
 
