@@ -14,7 +14,7 @@
 <br/><br/><br/>
 
 ## Link
-- ライブサイト: https://dkssud-dus.github.io/webRedesign-StudioGhibli/
+- ライブサイト: https://dkssud-dus.github.io/webRedesign-StudioGhibli/index_jp.html
 - 企画書 (Figma Slide): https://www.figma.com/deck/RX7PbBWflA6PiqhygjYwkZ/-webRedesign--Studio-Ghibli--Project-Brief-?node-id=3-42&t=gu3YHL2VDh45GbFW-1
 - デザインモックアップ (Figma): https://www.figma.com/design/78zRSUtttwvSDBZHKXUwP8/-webRedesign--Studio-Ghibli--Design-Brief-?node-id=2-2&t=sbWh2y9R0rBIrtvo-1
 
